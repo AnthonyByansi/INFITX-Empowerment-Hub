@@ -47,7 +47,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Contact 📞
 
-For any questions or inquiries, please contact us at empower@infitxhub.com or 
+> For any questions or inquiries, please contact us at empower@infitxhub.com or
+> Not Yet pulblished {Our place holder for the site}
 
 Let's together empower women and make a positive impact! 🌟💪👩‍💼
 
