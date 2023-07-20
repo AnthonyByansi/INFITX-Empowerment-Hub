@@ -30,7 +30,7 @@ The INFITX Empowerment Hub is a comprehensive web platform designed to empower w
 - Front-End: React, HTML5, CSS3, JavaScript
 - Back-End: Node.js, Express.js
 - Database: MongoDB
-- Cloud Hosting: AWS
+- Cloud Hosting: Azure
 
 ## Contribution Guidelines 📝
 
