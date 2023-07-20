@@ -43,7 +43,7 @@ We welcome contributions! Please follow these steps to contribute to the project
 
 ## License 📃
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the BSD 3-Clause "New" or "Revised" License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact 📞
 
